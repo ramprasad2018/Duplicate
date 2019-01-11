@@ -1,2 +1,0 @@
-# Duplicate
-Created with CodeSandbox
